@@ -4,4 +4,4 @@ services:
     env: node
     buildCommand: npm install
     startCommand: npm start
-    rootDir: .
+    rootDir: src
